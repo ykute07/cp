@@ -10,7 +10,7 @@ int main()
         // printf("%d\t",c);
         a = b;
         b = c;
-        if(c < s && f > c)
+        if(c > s && f > c)
         {
             count = count + 1;
         }
